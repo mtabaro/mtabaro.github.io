@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Matteo Tabaro"
-  avatar           : "ProfilePic.png"
-  bio              : "Second year PhD student in Dynamical Systems with a burning passion for polynomials and their parameter spaces."
+  avatar           : "profile.png"
+  bio              : "Second year PhD student in one dimnsional real and complex polynomial dynamics."
   employer         : "Imperial College London"
   location         :
   pubmed           : 
