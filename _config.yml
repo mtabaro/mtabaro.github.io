@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matteo Tabaro"
-  avatar           : images/ProfilePic.jpeg
+  avatar           : "<br/><img src='images/ProfilePic.jpeg'>"
   bio              : "Second year PhD students in Dynamical Systems"
   employer         : "Imperial College London"
   location         : "London UK"
