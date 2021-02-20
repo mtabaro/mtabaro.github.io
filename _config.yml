@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Matteo Tabaro"
-  avatar           : "profile.png"
-  bio              : "Second year PhD student in one dimnsional real and complex polynomial dynamics."
+  avatar           : "ProfilePic.png"
+  bio              : "Second year PhD student in one-dimnsional real and complex polynomial dynamics."
   employer         : "Imperial College London"
   location         :
   pubmed           : 
   googlescholar    :
-  email            : "matteo.tabaro15[at]imperial.ac.uk"
+  email            : "matteo.tabaro15@imperial.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Tabaro"
   uri              :
   bitbucket        :
@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
