@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Matteo Tabaro"
   avatar           : "<br/><img src='images/ProfilePic.jpeg'>"
-  bio              : "Second year PhD students in Dynamical Systems"
+  bio              : "Second year PhD student in Dynamical Systems, with a burning passion for polynomials and their parameter spaces."
   employer         : "Imperial College London"
-  location         : "London UK"
+  location         :
   pubmed           : 
   googlescholar    :
   email            : "matteo.tabaro15[at]imperial.ac.uk"
