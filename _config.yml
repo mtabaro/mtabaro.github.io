@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Matteo Tabaro"
   avatar           : "ProfilePic.jpeg"
-  bio              : "Second year PhD student in one-dimnsional real and complex polynomial dynamics."
+  bio              : "Second year PhD student in real and complex one-dimensional dynamics of families of multimodal maps."
   employer         : "Imperial College London"
   location         :
   pubmed           : 
   googlescholar    :
   email            : "matteo.tabaro15@imperial.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Matteo_Tabaro"
+  researchgate     : #"https://www.researchgate.net/profile/Matteo_Tabaro"
   uri              :
   bitbucket        :
   codepen          :
