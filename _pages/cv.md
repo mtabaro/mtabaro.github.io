@@ -17,6 +17,6 @@ Education
 Conferences
 ======
 * 03/2020 Analysis, Dynamics, Geometry and Probability, Simons Center for Geometry and Physics, Stony Brook University,
-* 01/2029 LMS Holomorphic Dynamics Meeting, Open University
+* 01/2020 LMS Holomorphic Dynamics Meeting, Open University
 * 01/2019 LMS Holomorphic Dynamics Meeting, University of Nottingham
 
